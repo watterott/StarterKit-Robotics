@@ -4,7 +4,7 @@
 [German](https://github.com/watterott/StarterKit-Robotics/raw/master/docu/Robot_de.pdf),
 [Video](http://www.robotiklabor.de/literatur/)
 
-[![StarterKit-Robotics](https://github.com/watterott/StarterKit-Robotics/raw/master/docu/Robot.jpg)](http://www.watterott.com/en/StarterKit-Roboter)
+![StarterKit-Robotics](https://github.com/watterott/StarterKit-Robotics/raw/master/docu/Robot.jpg)
 
 
 ## Shop
