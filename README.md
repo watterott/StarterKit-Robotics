@@ -6,12 +6,6 @@
 
 ![StarterKit-Robotics](https://github.com/watterott/StarterKit-Robotics/raw/master/docu/Robot.jpg)
 
-
-## Shop
-* [StarterKit-Robotics](http://www.watterott.com/en/StarterKit-Roboter)
-
-
-## Features
 * Based on an Uno Microcontroller Board and Motor-Shield
 * Two Gear-Motors and one Servo
 * Distance Sensor
