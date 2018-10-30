@@ -14,4 +14,4 @@
 
 ## Software
 * [Arduino Example](https://github.com/watterott/StarterKit-Robotics/raw/master/docu/Robot.ino)
-* [More Arduino Examples](https://github.com/robotfreak/WatterottRobotStarterKit)
+* [More Arduino Examples](https://github.com/robotfreak/WatterottRobotStarterKit), required libraries: [WRSK](https://github.com/watterott/StarterKit-Robotics/raw/master/software/WRSK.zip), [QTRSensors](https://github.com/watterott/StarterKit-Robotics/raw/master/software/QTRSensors.zip), [PID](https://github.com/watterott/StarterKit-Robotics/raw/master/software/PID.zip)
