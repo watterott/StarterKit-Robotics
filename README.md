@@ -11,7 +11,6 @@
 * Distance Sensor
 * Battery-Powered
 * Open-Source and released under the [Creative Commons Attribution Share-Alike License](https://creativecommons.org/licenses/by-sa/4.0/).
-* **[Documentation on learn.watterott.com](https://learn.watterott.com)**
 
 
 ## Software
